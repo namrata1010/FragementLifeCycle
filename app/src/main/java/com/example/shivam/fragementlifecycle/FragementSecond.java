@@ -18,6 +18,8 @@ public class FragementSecond extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Toast.makeText(getActivity().getBaseContext(), "Fragement B:onCreate", Toast.LENGTH_LONG).show();
+   //change in fragement second
+
     }
 
     @Override
